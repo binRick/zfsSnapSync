@@ -1,0 +1,22 @@
+{
+  "name": "zfsSnapSync",
+  "version": "1.0.0",
+  "description": "zfs mbuffer sync snapshots",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binRick/zfsSnapSync.git"
+  },
+  "keywords": [
+    "zfs"
+  ],
+  "author": "Rick Blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/zfsSnapSync/issues"
+  },
+  "homepage": "https://github.com/binRick/zfsSnapSync"
+}
